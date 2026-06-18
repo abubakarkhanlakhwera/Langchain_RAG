@@ -1,36 +1,29 @@
-# Langchain Rag
+# LangChain RAG Practice
 
-RAG examples with LangChain: document loading, embeddings, splitting, and vector databases.
+RAG examples covering document loading, embeddings, splitters, and vector databases.
 
-## Overview
+## Purpose
 
-This is a AI/ML learning and prototype repository. It is part of my broader GitHub portfolio showing hands-on work across AI, web development, automation, and software engineering fundamentals.
+Retrieval-augmented generation helps LLMs answer from provided documents instead of relying only on model memory. This repo practices the core RAG pipeline pieces needed to build document-aware AI apps.
 
-## What It Demonstrates
+## What This Shows
 
-- Practical implementation and experimentation rather than only theory.
-- Familiarity with the repository's core stack and development workflow.
-- Iterative learning through small projects, exercises, or prototypes.
+- Document loading
+- Embedding and chunking workflows
+- Vector database concepts for retrieval
 
-## Tech Stack
+## Stack
 
-- Primary language: Jupyter Notebook
-- Topics: jupyter-notebook, langchain, rag
-
-## Repository Structure
-
-- Top-level folders: document_loader, embeddings, splitters, vector_db
-- Top-level files: README.md
-
-## Status
-
-This is a learning/prototype repository kept public to show practice, experimentation, and growth.
+- Python
+- Jupyter Notebook
+- LangChain
+- RAG
 
 ## Next Improvements
 
-- Add screenshots, sample outputs, or a short demo where relevant.
-- Expand setup instructions for local development.
-- Document the main learning outcome, architecture, and edge cases.
+- Add a full end-to-end RAG demo
+- Document each folder in order
+- Add sample documents and output examples
 
 ## Author
 
